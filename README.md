@@ -1,1 +1,1 @@
-# CADENCE-WORKS
+"VLSI circuit designs — schematics, layouts, and simulations using Cadence Virtuoso | Logic Gates, Combinational, Sequential circuits & Array Multiplier | 180nm CMOS 
